@@ -20,4 +20,10 @@ p {
 .footer {
     font-family: 'Montserrat', sans-serif;
     text-align: center;
+    background-color: black;
+    padding-top: 20px;
+}
+figcaption {
+    display: block;
+    text-align: center;
 }
