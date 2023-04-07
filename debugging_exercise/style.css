@@ -45,10 +45,11 @@ width: 100%;
 }
 
 .chapter-head {
-  font-size:2em;
+  font-size: 2em;
   font-family: 'Oswald', sans-serif;
   padding-top:20px;
-  font-weight:700;
+  font-weight: 700;
+  
 }
 
 .stack-image {
@@ -73,6 +74,7 @@ width: 100%;
 }
 
 .footer {
+  /*changed text color to white*/
   background: #000;
   height:100px;
   min-height: 100px;
