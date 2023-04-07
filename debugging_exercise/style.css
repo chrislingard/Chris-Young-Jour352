@@ -63,7 +63,7 @@ width: 100%;
 
 .caption {
   /*changed width on caption*/
-  width:50%;
+  width:100%;
   max-width:900px;
   margin:0 auto;
   margin-bottom:30px;
