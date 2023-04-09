@@ -21,3 +21,15 @@ h1,h2,h3, .navbar-brand, .btn{
 .row {
     padding-bottom: 50px;
 }
+
+@media only screen and (max-width: 500px) {
+
+
+    h2 {
+        padding-top: 50px;
+    }
+    .btn {
+        background-color: teal !important;
+    }
+
+}
